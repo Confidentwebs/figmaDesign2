@@ -138,9 +138,9 @@ main{
     flex: auto;
 }
 
-#flex1-contents{
+.flex1-contents{
     padding: 10px;
-    margin: 30px;
+    margin: 5%;
 }
 
 .check{
